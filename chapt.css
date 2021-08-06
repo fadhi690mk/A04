@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	background: transparent;
+	font-weight: normal;
+	text-decoration: none;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	color: whitesmoke;
+}
+body {background-image: url(bg.jpg);}
+.bg{margin-top: 10%;margin-left: 5%;padding-bottom: 10%;}
+h1{margin-left:20% ;font-style: italic;font-size: 100px;}
+.vid {height: 50vh;width: 90vw;margin-left: 10%;}
+a{color: black;background-color: white;font-size: 56px;}
+p{color: black;background-color: ghostwhite;padding-left: 5%;}
