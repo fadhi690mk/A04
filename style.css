@@ -22,5 +22,7 @@ h1{margin-left:20% ;font-style: italic;font-size: 100px;}
 .warn{font-size: 20px;background-color: gray;margin-left: 40%;
 		font-style: italic;}
 h2{background-color: green;width: 80vw;font-size: 40px;}
-.contact{background-color: red;width: 250px;font-style: italic;
-	font-size: 40px;}}
+.contact{font-style: italic;
+	font-size: 40px;padding: 10px;width: 600px;display: flex;justify-content: space-between;}
+#whatsapp{background-color: red;}
+#instagram{background-color: blue;}
